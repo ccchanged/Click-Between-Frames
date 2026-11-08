@@ -1,3 +1,6 @@
+# v1.6.0
+* Port to GD 2.2091 (Geode v6.0.0-alpha.1)
+
 # v1.5.0
 
 * Port to GD 2.2081
