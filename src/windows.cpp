@@ -1,5 +1,6 @@
 #include "includes.hpp"
 
+#include <XInput.h>
 #include <cstdint>
 #include <atomic>
 
